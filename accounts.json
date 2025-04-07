@@ -1,0 +1,16 @@
+[
+  {
+    "apple_id": "eddies@icloud.com",
+    "password": "=kns%BM}D_3,",
+    "first_name": "Eddie",
+    "last_name": "Stephens",
+    "birth_date": "11/01/1959",
+    "phone_number": "783-521-5619",
+    "security_questions": {
+      "pet_name": "Cooper",
+      "first_city": "San Diego",
+      "teacher": "Smith"
+    },
+    "creation_date": "2025-04-06 14:58:11"
+  }
+]
